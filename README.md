@@ -1,17 +1,30 @@
 To-Do List App
 
-A simple and responsive To-Do List web application built using React.  
-It allows users to add, delete, and mark tasks as complete, making task management clean and easy.
+A simple and interactive To-Do List application built using React, designed to help users manage their daily tasks efficiently.
+
+> 🏆 This project is a part of a hackathon conducted by [Katomaran](https://www.katomaran.com).
 
 ---
 
-Features
+  Features
 
 - ✅ Add new tasks
 - 🗑️ Delete tasks
 - ✔️ Mark tasks as completed
-- 💾 Data persistence using browser localStorage (optional)
-- 🌓 Optional dark mode (if implemented)
-- 📱 Responsive design for mobile and desktop
+- 💾 (Optional) Save tasks using localStorage
+- 📱 Responsive UI for mobile and desktop
+- 🌈 Simple and clean user interface
+
+---
+
+Tech Stack
+
+- Frontend: React, JavaScript, HTML, CSS
+- Tools: Visual Studio Code, npm, Git
+
+---
+
+
+
 
 
